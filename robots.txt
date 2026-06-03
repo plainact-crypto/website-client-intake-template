@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plainact-crypto.github.io/website-client-intake-templates/sitemap.xml
